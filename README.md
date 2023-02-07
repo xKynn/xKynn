@@ -8,4 +8,4 @@
 - 🔭 I’m currently working on [RoofUS](https://github.com/xKynn/RoofUS)
 - 🤍 I like: coffee, music, cooking and video games
 - 📫 How to reach me: [yadav1aryan@gmail.com](mailto:yadav1aryan@gmail.com)
-- 💡 Most definitely a fact: Hedgehogs are really cute
+- 💡 Fact: Hedgehogs are really cute
